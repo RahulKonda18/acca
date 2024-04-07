@@ -39,7 +39,7 @@ const Header = () => {
       ) : (
         <div></div>
       )}
-      <div className="d-flex flex-column pt-5 mt-5 pb-5 bg-body-secondary justify-content-center align-items-center flex-sm-row">
+      <div className="d-flex flex-column pt-5 mt-5 pb-5 bg-body-secondary justify-content-center align-items-center flex-sm-row p-3">
         <div className="p-lg-5 p-sm-2">
           <h1 className="fs-2">Become ACCA in 18 months</h1>
           <p>
