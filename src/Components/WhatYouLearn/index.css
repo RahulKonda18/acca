@@ -1,0 +1,17 @@
+.bg-bodyss {
+  background-color: rgb(34, 8, 58);
+  width: 250px;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.bo {
+  height: 200px;
+  border: solid;
+  border-color: rgb(34, 8, 58);
+  width: 250px;
+  margin-bottom: 0px;
+}
